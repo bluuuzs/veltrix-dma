@@ -4,7 +4,7 @@
 ### Pretty much in testing right now, however it will function. The web menu, aimbot, triggerbot, ESP, ETC will function as normal
 
 
-## Added a web menu, not the best but its better than nothing
+## Added a web menu, turned out way better than i expected. Can edit all of the important settings, save, load, delete configs etc.
 
 
 
