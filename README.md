@@ -1,7 +1,10 @@
 # Fapper-DMA
 
 
-### Please note that as of right now, this is still in testing (all of it works fine) but its not published yet. downloading this will give you the cheat, yes, however the cheat is compiled as a graphics only cheat which means the cheat will not function
+### Pretty much in testing right now, however it will function. The web menu, aimbot, triggerbot, ESP, ETC will function as normal
+
+
+## Added a web menu, not the best but its better than nothing
 
 
 
