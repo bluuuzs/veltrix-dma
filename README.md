@@ -1,7 +1,7 @@
 # Fapper-DMA
 
 
-### Pretty much in testing right now, however it will function. The web menu, aimbot, triggerbot, ESP, ETC will function as normal
+### Havent tested it yet since i added the webmenu cause im lazy but it should work fine. ill probably add prediction soon
 
 
 ## Added a web menu, turned out way better than i expected. Can edit most settings, you can create, load, save, delete configs from the web menu, the web menu does not use localhost so it can be ran on a device connected to your internet.
