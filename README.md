@@ -1,4 +1,4 @@
-# Fapper-DMA
+# Fapper-DMA   discord.gg/TgbdNJgGnT 
 
 
 ### Havent tested it yet since i added the webmenu cause im lazy but it should work fine. ill probably add prediction soon
