@@ -1,6 +1,6 @@
 # Fapper-DMA  /  discord.gg/TgbdNJgGnT 
 
-## Please note that there does seem to be a bug where the cheat will crash if you use the aimbot with a pickaxe, i don't know what it is.
+## Please note that there does seem to be a bug where the cheat will crash if you use the aimbot with a pickaxe, i don't know what it is. (I might have fixed this, can't test though cause my spoofer isn't working.
 
 ### Havent tested it yet since i added the webmenu cause im lazy but it should work fine. ill probably add prediction soon
 
