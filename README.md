@@ -1,11 +1,9 @@
 # Fapper-DMA  /  discord.gg/TgbdNJgGnT 
 
-## Please note that there does seem to be a bug where the cheat will crash if you use the aimbot with a pickaxe, i don't know what it is. (I might have fixed this, can't test though cause my spoofer isn't working.
-
-### Havent tested it yet since i added the webmenu cause im lazy but it should work fine. ill probably add prediction soon
+## I fixed the issue where the cheat would crash when using pickaxe aimbot (there was never a pickaxe aimbot i just skipped pickaxe in aim.h so now nothing happens when you use aimbot with pickaxe)
 
 
-## Added a web menu, turned out way better than i expected. Can edit most settings, you can create, load, save, delete configs from the web menu, the web menu does not use localhost so it can be ran on a device connected to your internet.
+### Web menu looks 10x better, it's so fire. 10x better than the menu, check out the web menu you will love it.
 
 
 
