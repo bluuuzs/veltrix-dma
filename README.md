@@ -1,9 +1,7 @@
 # Fapper-DMA  /  discord.gg/TgbdNJgGnT 
 
-## I fixed the issue where the cheat would crash when using pickaxe aimbot (there was never a pickaxe aimbot i just skipped pickaxe in aim.h so now nothing happens when you use aimbot with pickaxe)
 
-
-### Web menu looks 10x better, it's so fire. 10x better than the menu, check out the web menu you will love it.
+### Remade the webmenu html completely looks way better and obfuscated it, also added a Enable/Disable webmenu button in the cheat
 
 
 
