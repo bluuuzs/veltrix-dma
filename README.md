@@ -1,4 +1,4 @@
-# Fapper-DMA  /  discord.gg/TgbdNJgGnT  /  [https://fapper-dma.web.app/](https://fapper-dma.web.app/)
+# Fapper-DMA  /  discord.gg/TgbdNJgGnT  /  [Website](https://fapper-dma.web.app/)
 
 
 ### Remade the webmenu html completely looks way better and obfuscated it, also added a Enable/Disable webmenu button in the cheat, havent updated structs yet but i probably will today. sorry for the delay
