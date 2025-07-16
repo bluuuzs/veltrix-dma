@@ -1,7 +1,7 @@
 # Fapper-DMA  /  discord.gg/TgbdNJgGnT 
 
 
-### Remade the webmenu html completely looks way better and obfuscated it, also added a Enable/Disable webmenu button in the cheat
+### Remade the webmenu html completely looks way better and obfuscated it, also added a Enable/Disable webmenu button in the cheat, havent updated structs yet but i probably will today. sorry for the delay
 
 
 
