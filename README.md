@@ -26,7 +26,7 @@ Run fapperdma.exe, and wait for it to load.
 We have swapped over to a different source, this source features most of what the old source had with more such as: Prediction, Head ESP, Loot ESP (In development), and more.
 Im pretty sure the webmenu is broken right now, html not found error, will be fixed today/tomorrow.
 I lost my un-obfuscated webmenu HTML source, i cannot make updates to the webmenu unless i make a new one.
-You can view most of our features here: https://fapper-dma.web.app/#features
+You can view most of our features here: https://fapperdma.com
 
 
 # You need a DMA card and firmware to use this.
