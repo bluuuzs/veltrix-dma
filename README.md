@@ -23,7 +23,7 @@ Run fapperdma.exe, and wait for it to load.
 
 ### Notes:
 
-The webmenu HTML file hasn't been added to the cheat's directory, i made the webmenu to support a different code and uzi has to make it support his. we're prioritizing other features rather than the webmenu.
+The webmenu HTML file hasn't been added to the cheat's directory, i made the webmenu to support a different code and uzi has to make it support his. we're prioritizing other features rather than the webmenu. You can preview what it will look like at https://fapperdma.com/preview, this is mainly what it will look like but will have alot more features as i made this webmenu for a fortnite dma with less features
 
 
 We have swapped over to a different source, this source features most of what the old source had with more such as: Prediction, Head ESP, Loot ESP (In development), and more.
