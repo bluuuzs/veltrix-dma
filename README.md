@@ -23,6 +23,9 @@ Run fapperdma.exe, and wait for it to load.
 
 ### Notes:
 
+The webmenu HTML file hasn't been added to the cheat's directory, i made the webmenu to support a different code and uzi has to make it support his. we're prioritizing other features rather than the webmenu.
+
+
 We have swapped over to a different source, this source features most of what the old source had with more such as: Prediction, Head ESP, Loot ESP (In development), and more.
 Im pretty sure the webmenu is broken right now, html not found error, will be fixed today/tomorrow.
 I lost my un-obfuscated webmenu HTML source, i cannot make updates to the webmenu unless i make a new one.
