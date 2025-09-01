@@ -18,7 +18,7 @@
 3. Ensure that the DLL's and exe are in the same folder before running.  
 4. Run `Veltrix.exe` and wait for it to load.  
 
-You can view our features here: [https://veltrixsolutions.xyz/features](https://veltrixsolutions.xyz/features)
+ You can view our features here: [https://veltrixsolutions.xyz/features](https://veltrixsolutions.xyz/features)
 
 ---
 
