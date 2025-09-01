@@ -30,7 +30,7 @@ You can preview what it will look like (with way more features later) here: [htt
 **Recent Changes:**
 
 - **Version 1.75:** Fixed all weapons configuration, changed config file type from `.txt` to `.veltrix`, added new crosshairs.  
-- **Version 1.77:** Fixed aimbot separate weapons config (offset related), started remaking loot ESP.  
+- **Version 1.77:** Fixed aimbot separate weapons config, started remaking loot ESP.  
 - **Version 1.78 (Latest):** Fixed the *“waiting for application to respond”* issue, improved Discord authentication stability and functionality, and improved the look of the loader.  
 
 ---
