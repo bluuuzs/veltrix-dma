@@ -9,9 +9,6 @@ Run the installer on your radar PC.
 The installer will automatically grab the DLL's and exe from this github and create a folder in your Downloads and place them there.
 Once done, run fapperdma.exe, and wait for it to load
 
-This installer only takes 10 seconds and does not require going on the github, you can just keep this Installer inside of the folder the installer created and run it whenever there is an update.
-
-
 
 ### Manual Download Guide:
 
@@ -21,15 +18,16 @@ Ensure that the DLL's and exe are in the same folder before running
 Run veltrix.exe, and wait for it to load.
 
 
-### Notes:
+You can view our features here: https://veltrixsolutions.xyz/features
 
-The webmenu HTML file hasn't been added to the cheat's directory, i made the webmenu to support a different code and uzi has to make it support his. we're prioritizing other features rather than the webmenu. You can preview what it will look like at https://veltrixsolutions.xyz/preview, this is mainly what it will look like but will have alot more features as i made this webmenu for a fortnite dma cheat with less features
+### Notes & Updates:
 
+The webmenu HTML is connecting and working however i haven't added all other features as it'll take way too long. You can preview what it will look like (Once done it'll have way more features) at https://veltrixsolutions.xyz/preview
 
-We have swapped over to a different source, this source features most of what the old source had with more such as: Prediction, Head ESP, Loot ESP (In development), and more.
-Im pretty sure the webmenu is broken right now, html not found error, will be fixed today/tomorrow.
-I lost my un-obfuscated webmenu HTML source, i cannot make updates to the webmenu unless i make a new one.
-You can view most of our features here: https://veltrixsolutions.xyz/features
+Recent Changes:
 
+Version 1.75: Fixed all weapons configuration, changed config file type from .txt to .veltrix, added new crosshairs
+Version 1.77: Fixed aimbot seperate weapons config (offset related), started remaking lootesp
+Version 1.78 (Latest): Fixed the 'waiting for application to respond' issue where it would be like that for minutes when running the cheat, Improved discord authentication stability and functionality, Improved the look of the loader
 
 # You need a DMA card and firmware to use this.
