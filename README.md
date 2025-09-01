@@ -7,7 +7,7 @@
 1. Download the installer from the GitHub [releases](https://github.com/bluuuzs/veltrix-dma/releases/tag/Installer).  
 2. Run the installer on your Radar PC.  
 3. The installer will automatically grab the DLL's and exe from this GitHub and create a folder in your **Downloads**.  
-4. Once done, run `fapperdma.exe` and wait for it to load.  
+4. Once done, run `Veltrix.exe` and wait for it to load.  
 
 ---
 
@@ -16,7 +16,7 @@
 1. Download all of the DLL's and the exe from the GitHub.  
 2. Extract them somewhere on your Radar PC.  
 3. Ensure that the DLL's and exe are in the same folder before running.  
-4. Run `veltrix.exe` and wait for it to load.  
+4. Run `Veltrix.exe` and wait for it to load.  
 
 👉 You can view our features here: [https://veltrixsolutions.xyz/features](https://veltrixsolutions.xyz/features)
 
