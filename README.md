@@ -26,8 +26,9 @@
 
 ### Notes & Changes
 
-The webmenu HTML is connecting and working, however I haven’t added all other features yet as it would take too long and i dont have the time right now. 
-You can preview what it will look like (with way more features later) here: [https://veltrixsolutions.xyz/preview](https://veltrixsolutions.xyz/preview)
+**Notes:**
+
+You can preview what the webmenu will look like (with way more features once i get time to add them) here: [https://veltrixsolutions.xyz/preview](https://veltrixsolutions.xyz/preview)
 
 **Recent Changes:**
 
