@@ -1,4 +1,4 @@
-# Veltrix-DMA / discord.gg/TgbdNJgGnT / [Website](https://veltrixsolutions.xyz/)
+# Veltrix-DMA / [discord.gg/TgbdNJgGnT] / [Website](https://veltrixsolutions.xyz/)
 
 ---
 
@@ -18,11 +18,13 @@
 3. Ensure that the DLL's and exe are in the same folder before running.  
 4. Run `Veltrix.exe` and wait for it to load.  
 
+---
+
  You can view our features here: [https://veltrixsolutions.xyz/features](https://veltrixsolutions.xyz/features)
 
 ---
 
-### Notes & Updates
+### Notes & Changes
 
 The webmenu HTML is connecting and working, however I haven’t added all other features yet as it would take too long and i dont have the time right now. 
 You can preview what it will look like (with way more features later) here: [https://veltrixsolutions.xyz/preview](https://veltrixsolutions.xyz/preview)
