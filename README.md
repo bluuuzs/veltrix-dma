@@ -32,9 +32,9 @@ You can preview what the webmenu will look like (with way more features once i g
 
 **Recent Changes:**
 
-- **Version 1.75:** Fixed all weapons configuration, changed config file type from `.txt` to `.veltrix`, added new crosshairs.  
-- **Version 1.77:** Fixed aimbot separate weapons config, started remaking loot ESP.  
-- **Version 1.78 (Latest):** Fixed the *“waiting for application to respond”* issue, improved Discord authentication stability and functionality, and improved the look of the loader.  
+- **Version 1.78:** Fixed the *“waiting for application to respond”* issue, improved Discord authentication stability and functionality, and improved the look of the loader.
+- **Version 1.79:** Improved discord authentication
+- **Version 1.80 (Latest):** Updated to latest game version (Fortnite-Release-37.10-CL-45566377-Windows), Updated discord link cause discord deleted it.
 
 ---
 
