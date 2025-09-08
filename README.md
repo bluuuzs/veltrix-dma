@@ -32,9 +32,9 @@ You can preview what the webmenu will look like (with way more features once i g
 
 **Recent Changes:**
 
-- **Version 1.78:** Fixed the *“waiting for application to respond”* issue, improved Discord authentication stability and functionality, and improved the look of the loader.
 - **Version 1.79:** Improved discord authentication
-- **Version 1.80 (Latest):** Updated to latest game version (Fortnite-Release-37.10-CL-45566377-Windows), Updated discord link cause discord deleted it.
+- **Version 1.80:** Updated to latest game version (Fortnite-Release-37.10-CL-45566377-Windows), Updated discord link cause discord deleted it.
+- **Version 1.81 (Latest):** Swapped to a more secure database, everyone will need to reauthorise again, Cleaned up unnecessary console logs, Discord authorization is now locked to HWID, you can only authorize with one account per device, Added more HWID identifiers for blacklisting.
 
 ---
 
