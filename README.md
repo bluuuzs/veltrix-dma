@@ -27,9 +27,9 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Recent Changes:**
 
-- **Version 1.80:** Updated to latest game version (Fortnite-Release-37.10-CL-45566377-Windows), Updated discord link cause discord deleted it.
 - **Version 1.81:** Swapped to a more secure database, everyone will need to reauthorise again, Cleaned up unnecessary console logs, Discord authorization is now locked to HWID, you can only authorize with one account per device, Added more HWID identifiers for blacklisting.
-- **Version 1.82: (Latest)** Made a Loader
+- **Version 1.82:** Made a Loader
+- **Version 1.82: (Latest)** Updated to latest game version (Fortnite-Release-37.20-CL-45679054-Windows)
 
 ---
 
