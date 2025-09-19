@@ -25,11 +25,13 @@ You **cannot** launch Veltrix.exe without using the Loader, it will give you an 
 The DLL's and Veltrix.exe will be hidden if you dont have Show Hidden Files enabled in explorer to keep it clean
 With the Loader you wont have to download it again when an update releases unless we update the loader, all you do is run the Loader and it'll install/update and then launch.
 
+pRED
+
 **Recent Changes:**
 
-- **Version 1.82:** Made a loader
 - **Version 1.83:** Updated to latest game version (Fortnite-Release-37.20-CL-45679054-Windows)
-- **Vearsion 1.84: (Latest)** Fixed ESP disappearing when loading into a match Fixed aimbot by addind 'Aimbot Speed X and Y' inside of aimbot, i am not sure how much this will affect aimbot. Didn't have time to test everything
+- **Vearsion 1.84:** Fixed ESP disappearing when loading into a match Fixed aimbot by addind 'Aimbot Speed X and Y' inside of aimbot, i am not sure how much this will affect aimbot. Didn't have time to test everything
+- **Vearsion 1.85: (Latest)** Updated to latest game version (Fortnite-Release-37.30-CL-45814998-Windows), Added a Custom Color Picker in Colors > Menu Customization, scroll down to the bottom of the dropdown
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
