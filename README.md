@@ -29,9 +29,9 @@ pRED
 
 **Recent Changes:**
 
-- **Vearsion 1.85:** Updated to latest game version (Fortnite-Release-37.30-CL-45814998-Windows), Added a Custom Color Picker in Colors > Menu Customization, scroll down to the bottom of the dropdown
 - **Vearsion 1.86:** Fixed Visible Check, Fixed Spectator ESP not working and the bug where it repeats usernames, Removed Self Health ESP Cause its pointless, Fixed Killscore and Level ESP, Removed some other unfinished/broken stuff that were not worth having
-- **Vearsion 1.87: (Latest)** Updated to latest game version (Fortnite-Release-37.31-CL-46047957-Windows)
+- **Vearsion 1.87:** Updated to latest game version (Fortnite-Release-37.31-CL-46047957-Windows)
+- **Vearsion 1.88: (Latest)** Fixed ESP not showing for others and showing for you in game
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
