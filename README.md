@@ -29,9 +29,9 @@ pRED
 
 **Recent Changes:**
 
-- **Vearsion 1.87:** Updated to latest game version (Fortnite-Release-37.31-CL-46047957-Windows)
 - **Vearsion 1.88:** Fixed ESP not showing for others and showing for you in game
-- **Vearsion 1.88: (Latest)** Updated to latest game version (Fortnite-Release-37.40-CL-46295673-Windows)
+- **Vearsion 1.89:** Updated to latest game version (Fortnite-Release-37.40-CL-46295673-Windows)
+- **Vearsion 1.90: (Latest)** Fixed FOV Issues, Fixed Triggerbot
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
