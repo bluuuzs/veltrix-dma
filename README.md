@@ -25,7 +25,6 @@ You **cannot** launch Veltrix.exe without using the Loader, it will give you an 
 The DLL's and Veltrix.exe will be hidden if you dont have Show Hidden Files enabled in explorer to keep it clean
 With the Loader you wont have to download it again when an update releases unless we update the loader, all you do is run the Loader and it'll install/update and then launch.
 
-pRED
 
 **Recent Changes:**
 
