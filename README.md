@@ -30,7 +30,7 @@ With the Loader you wont have to download it again when an update releases unles
 
 - **Vearsion 1.91:** Updated to latest game version (Fortnite-Release-37.50-CL-46578011-Windows)
 - **Vearsion 1.92:** Updated to lastest game version (Fortnite-Release-37.51-CL-46968237-Windows)
-- **Vearsion 1.93: (Latest)** Updated to latest game version (Fortnite-Release-38.00-CL-47291259-Windows)
+- **Vearsion 1.93: (Latest)** Updated to latest game version (Fortnite-Release-38.00-CL-47291259-Windows), Cleaned up initialization Console Logs
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
