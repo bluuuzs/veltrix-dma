@@ -28,9 +28,9 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Recent Changes:**
 
-- **Vearsion 1.92:** Updated to lastest game version (Fortnite-Release-37.51-CL-46968237-Windows)
 - **Vearsion 1.93:** Updated to latest game version (Fortnite-Release-38.00-CL-47291259-Windows), Cleaned up initialization Console Logs
-- **Vearsion 1.94: (Latest)** Fixed ESP & Radar Rendering on Local Player & Teammates
+- **Vearsion 1.94:** Fixed ESP & Radar Rendering on Local Player & Teammates
+- **Vearsion 1.92 (Latest):** Updated to the latest game version (Fortnite-Release-38.00-CL-47722112-Windows)
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
