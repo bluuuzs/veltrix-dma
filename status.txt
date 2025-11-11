@@ -1,2 +1,2 @@
 offline
-online 1.95
+online 1.96
