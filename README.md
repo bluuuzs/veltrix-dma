@@ -28,9 +28,9 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Recent Changes:**
 
-- **Vearsion 1.95:** Updated to the latest game version (Fortnite-Release-38.00-CL-47722112-Windows)
 - **Vearsion 1.96:** Updated to the latest game version (Fortnite-Release-38.10-CL-47888945-Windows)
-- **Vearsion 1.97 (Latest):** Updated to the latest game version (Fortnite-Release-38.11-CL-48390828-Windows)
+- **Vearsion 1.97:** Updated to the latest game version (Fortnite-Release-38.11-CL-48390828-Windows)
+- **Vearsion 1.98 (Latest):** Fixed Discord Authentication not working
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
