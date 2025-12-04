@@ -1,2 +1,2 @@
 offline
-online 1.99
+online 2.00
