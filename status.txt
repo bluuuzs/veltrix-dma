@@ -1,2 +1,2 @@
 offline
-online 2.00
+online 2.0
