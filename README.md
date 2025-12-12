@@ -26,9 +26,9 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Recent Changes:**
 
-- **Vearsion 1.98:** Fixed Discord Authentication not working
 - **Vearsion 1.99:** Updated to the latest game version (Fortnite-Release-39.00-CL-48444883-Windows)
-- **Vearsion 2.00 (Latest):** Updated to the latest game version (Fortnite-Release-39.00-CL-48801071-Windows)
+- **Vearsion 2.00:** Updated to the latest game version (Fortnite-Release-39.00-CL-48801071-Windows)
+- **Vearsion 2.01 (Latest):** Updated to the latest game version (Fortnite-Release-39.10-CL-48971054-Windows), Temporarily Disabled Discord OAuth Login, Updated The Discord Invites (Discord Deleted It), Fixed Uworld invalidating everytime you back out or into a match
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
