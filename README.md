@@ -1,4 +1,4 @@
-# Veltrix-DMA / [Discord](https://discord.gg/KsE8HCx3Yh) / [Website](https://veltrixsolutions.xyz/)
+# Veltrix-DMA / [Discord](https://discord.gg/veltrixsolutions) / [Website](https://veltrixsolutions.xyz/)
 
 ---
 
