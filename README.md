@@ -26,9 +26,9 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Recent Changes:**
 
-- **Vearsion 2.00:** Updated to the latest game version (Fortnite-Release-39.00-CL-48801071-Windows)
 - **Vearsion 2.01:** Updated to the latest game version (Fortnite-Release-39.10-CL-48971054-Windows), Temporarily Disabled Discord OAuth Login, Updated The Discord Invites (Discord Deleted It), Fixed Uworld invalidating everytime you back out or go into a match
-- **Vearsion 2.02 (Latest):** Updated to the latest game version (Fortnite-Release-39.11-CL-49242330-Windows), Updated Discord Invite URL in the Cheat
+- **Vearsion 2.02:** Updated to the latest game version (Fortnite-Release-39.11-CL-49242330-Windows), Updated Discord Invite URL in the Cheat
+- **Vearsion 2.03 (Latest):** Fixed Aimbot (Related to Keypress Detection failure)
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
