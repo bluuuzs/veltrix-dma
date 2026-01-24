@@ -26,9 +26,9 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Recent Changes:**
 
-- **Vearsion 2.02:** Updated to the latest game version (Fortnite-Release-39.11-CL-49242330-Windows), Updated Discord Invite URL in the Cheat
 - **Vearsion 2.03:** Fixed Aimbot (Related to Keypress Detection failure)
-- **Vearsion 2.04 (Latest):** Updated to the latest game version (Fortnite-Release-39.20-CL-49564179-Windows)
+- **Vearsion 2.04:** Updated to the latest game version (Fortnite-Release-39.20-CL-49564179-Windows)
+- **Vearsion 2.05 (Latest):** Updated to the latest game version (Fortnite+Release-39.30-CL-49874243-Windows)
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
