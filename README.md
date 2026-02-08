@@ -28,7 +28,8 @@ With the Loader you wont have to download it again when an update releases unles
 
 - **Vearsion 2.05:** Updated to the latest game version (Fortnite+Release-39.30-CL-49874243-Windows)
 - **Vearsion 2.06:** Updated to the latest game version (Fortnite-Release-39.30-CL-50141518-Windows)
-- **Vearsion 2.07 (Latest):** Updated to the latest game version (Fortnite-Release-39.40-CL-50341043-Windows)
+- **Vearsion 2.07:** Updated to the latest game version (Fortnite-Release-39.40-CL-50341043-Windows)
+- **Vearsion 2.08 (Latest):** Updated to the latest game version (Fortnite-Release-39.40-CL-50577083-Windows)
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
