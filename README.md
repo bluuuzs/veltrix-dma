@@ -24,12 +24,9 @@ Using the Loader, the DLL's and Veltrix.exe will be hidden if you dont have Show
 With the Loader you wont have to download it again when an update releases unless we update the loader, all you do is run the Loader and it'll install/update and then launch.
 
 
-**Recent Changes:**
+**Current Version:**
 
-- **Vearsion 2.05:** Updated to the latest game version (Fortnite+Release-39.30-CL-49874243-Windows)
-- **Vearsion 2.06:** Updated to the latest game version (Fortnite-Release-39.30-CL-50141518-Windows)
-- **Vearsion 2.07:** Updated to the latest game version (Fortnite-Release-39.40-CL-50341043-Windows)
-- **Vearsion 2.08 (Latest):** Updated to the latest game version (Fortnite-Release-39.40-CL-50577083-Windows)
+- Veltrix DMA Is Currently Updated To Game Version: Fortnite-Release-39.50-CL-51043566-Windows
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
