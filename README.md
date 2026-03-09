@@ -26,7 +26,7 @@ With the Loader you wont have to download it again when an update releases unles
 
 **Current Version:**
 
-- Veltrix DMA Is Currently Updated To Game Version: Fortnite-Release-39.50-CL-51043566-Windows
+- Veltrix DMA Is Currently Updated To Game Version: Fortnite-Release-39.51-CL-51287198-Windows
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
