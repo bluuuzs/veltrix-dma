@@ -2,17 +2,23 @@
 
 ---
 
-### Loader Guide
+### Guide
 
-1. Download the Loader from the GitHub [releases](https://github.com/bluuuzs/veltrix-dma/releases/tag/Loader)
-2. Run the Loader on your Radar PC.  
-3. The Loader will automatically grab the DLL's and exe from this GitHub and install them to whatever directory it is in.
-4. Once done, the Loader will automatically open Veltrix.exe
-5. Loader will also check for updates and automatically install them if there are any
+1. Go to the [website](https://veltrixsolutions.xyz/veltrix-free-dma/)
+2. Signup/Login to your account if you haven't logged in already
+3. Click the Redeem button
+4. Click your User in the top right and click on Dashboard
+5. Once you're in the dashboard you will see "Veltrix V2 Fortnite DMA" in your inventory, click on the Activate button
+6. Once you have activated it, click the "Guide" button on the product card and read it
 
 ---
 
- ⭐ You can view our features here: [https://veltrixsolutions.xyz/features](https://veltrixsolutions.xyz/features)
+ ⭐ Features
+
+- Aimbot (Smoothness, FOV, Hotkeys Customization available)
+- Triggerbot (Distance, Hotkeys Customization available)
+- Box ESP (Box Width, Thickness, Roundness Customization available)
+- VSync
 
 ---
 
@@ -20,13 +26,7 @@
 
 **Notes:**
  
-Using the Loader, the DLL's and Veltrix.exe will be hidden if you dont have Show Hidden Files enabled in explorer to keep it clean
-With the Loader you wont have to download it again when an update releases unless we update the loader, all you do is run the Loader and it'll install/update and then launch.
-
-
-**Current Version:**
-
-- Veltrix DMA Is Currently Updated To Game Version: Fortnite-Release-40.10-CL-52157884-Windows
+If you wan't to unlock every feature, you can Purchase a key for Veltrix V2 DMA [here](https://veltrixsolutions.xyz/veltrix-v2)
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
