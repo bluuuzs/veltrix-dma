@@ -19,6 +19,7 @@
 - Triggerbot (Distance, Hotkeys Customization available)
 - Box ESP (Box Width, Thickness, Roundness Customization available)
 - VSync
+- Ignore Teammates
 
 ---
 
