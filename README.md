@@ -23,7 +23,7 @@
 
 ---
 
-If you wan't to unlock every feature, you can Purchase a key for Veltrix V2 DMA [here](https://veltrixsolutions.xyz/veltrix-v2)
+If you want to unlock every feature, you can Purchase a key for Veltrix V2 DMA [here](https://veltrixsolutions.xyz/veltrix-v2)
 ---
 
 # ⚠️ You need a DMA card and firmware to use this.
