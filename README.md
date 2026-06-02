@@ -15,7 +15,7 @@
 
  ⭐ Features
 
-- Box ESP (Box Type, Box Width, Thickness, Roundness Customization available)
+- Box ESP (Box Type, Width, Thickness, Roundness Customization available)
 - VSync
 
 ---
