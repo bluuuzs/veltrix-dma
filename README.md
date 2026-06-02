@@ -15,11 +15,8 @@
 
  ⭐ Features
 
-- Aimbot (Smoothness, FOV, Hotkeys Customization available)
-- Triggerbot (Distance, Hotkeys Customization available)
-- Box ESP (Box Width, Thickness, Roundness Customization available)
+- Box ESP (Box Type, Box Width, Thickness, Roundness Customization available)
 - VSync
-- Ignore Teammates
 
 ---
 
